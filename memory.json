@@ -1,0 +1,54 @@
+{
+  "entities": {
+    "test_entity_workflow": {
+      "name": "test_entity_workflow",
+      "entity_type": "test",
+      "observations": [
+        "Created during A-Z test workflow",
+        "Created during A-Z test workflow",
+        "Created during A-Z test workflow"
+      ],
+      "created_at": "2026-01-23T08:40:23.944886",
+      "updated_at": "2026-01-31T05:28:59.142631"
+    },
+    "Oslo": {
+      "name": "Oslo",
+      "entity_type": "city",
+      "observations": [
+        "Gold and Crypto news",
+        "Testing weather check",
+        "
+      ],
+      "created_at": "2026-01-23T09:17:25.566263",
+      "updated_at": "2026-01-23T09:17:40.133524"
+    },
+    "OsloWeatherCheck": {
+      "name": "OsloWeatherCheck",
+      "entity_type": "event",
+      "observations": [
+        "Weather check at 2026-01-23T09:20:06.006345",
+        "Temperature: -3C",
+        "Weather check at 2026-01-23T09:27:57.652723",
+        "Temperature: -3C",
+        "Weather check at 2026-01-23T09:28:31.776927",
+        "Temperature: -3C",
+        "Weather check at 2026-01-23T09:35:40.796547",
+        "Temperature: -3C",
+        "Weather check at 2026-01-23T14:16:28.317760",
+        "Temperature: -3C",
+        "Weather check at 2026-01-23T19:26:44.771960",
+        "Temperature: -3C",
+        "Weather check at 2026-01-24T03:43:05.395084",
+        "Temperature: -3C",
+        "Weather check at 2026-01-30T22:40:07.747472",
+        "Temperature: -3C",
+        "Weather check at 2026-01-31T04:35:05.431064",
+        "Temperature: -3C"
+      ],
+      "created_at": "2026-01-23T09:20:06.006364",
+      "updated_at": "2026-01-31T04:35:05.431064"
+    }
+  },
+  "relations": [],
+  "updated_at": "2026-01-31T05:28:59.142796"
+}
